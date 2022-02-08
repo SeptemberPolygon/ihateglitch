@@ -26,6 +26,6 @@ img{
 	border-style: solid;
 	border-width: 15px;
 }
-body{
-    background-color: #2A2A2A;
+html{
+  background-image: url("https://cdn.glitch.global/aa3a70c1-7227-44e2-8c08-926df6c23721/Background.png?v=1644315745565")
 }
