@@ -26,12 +26,11 @@ img{
 	width:500px;
 }
 .tetris{
-	border-color: black;
+	border-color: white;
 	border-style: solid;
 	border-width: 15px;
 }
 html{
-
   background-color: #000000;
   background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100%25' height='100%25' viewBox='0 0 1600 800'%3E%3Cg %3E%3Cpolygon fill='%23030522' points='1600 160 0 460 0 350 1600 50'/%3E%3Cpolygon fill='%23060a44' points='1600 260 0 560 0 450 1600 150'/%3E%3Cpolygon fill='%23081066' points='1600 360 0 660 0 550 1600 250'/%3E%3Cpolygon fill='%230b1588' points='1600 460 0 760 0 650 1600 350'/%3E%3Cpolygon fill='%230E1AAA' points='1600 800 0 800 0 750 1600 450'/%3E%3C/g%3E%3C/svg%3E");
   background-attachment: fixed;
@@ -43,7 +42,3 @@ a{
 p{
   color: white;
 }
-
-  background-image: url("https://cdn.glitch.global/aa3a70c1-7227-44e2-8c08-926df6c23721/Background.png?v=1644315745565")
-}
-
